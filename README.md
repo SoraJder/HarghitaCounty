@@ -8,4 +8,5 @@ HarghitaCounty este o aplicatie Android alcatuita din 4 screen-uri:
   4. Deschidere link wikipedia a locatiei respective
   
 Tehnologii folosite: Kotlin, JetpackCompose
+
 De asemenea, are si mod de noapte :)
